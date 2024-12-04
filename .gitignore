@@ -1,0 +1,33 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Salidas de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Directorios de salida o builds (si aplican)
+dist/
+build/
+
+# Archivos del sistema operativo
+.DS_Store   
+Thumbs.db      
+
+# Carpetas de IDEs
+.idea/         
+.vscode/        
+
+# Cache y archivos temporales
+*.swp           
+*.tmp
+*.log
+*.bak
+*.pid
+*.seed
+
+# Configuración opcional
+coverage/      
